@@ -11,7 +11,7 @@
   + Me pase Sekiro:Shadows Die Twice.
   + No juego al Lol.
   + Juego a todo en la maxima dificultad por que no soy un maricon.
-  + Al contrario que el resto de Gamers no soy homofogo.
+  + Al contrario que el resto de Gamers no soy homofobo.
   + Mi Pc corre el Cyberpunk 2077.
   + Puedo cantar el Baka Mitai mejor que Kiriu Kazuma.
   + Nivel 80 con 5 personajes de Gw2 y equipados Full Ascendido.
