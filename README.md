@@ -1,6 +1,6 @@
 # Adrian_RuizDiaz
 <h2> Curriculum </h2>
-![juanlugaylachupa]()
+![juanlugaylachupa](https://imgur.com/a/95bxvEk)
 <h3 id="datos"> Datos Personales </h3>
 <p><strong>Nombre</strong>: Adrian Ruiz Diaz.</p>
 <p><strong>email de contacto</strong>: RogueRebel997@gmail.com.</p>
@@ -28,6 +28,15 @@
 <p> 1 Año de Practicas en la Empresa OP Servei(Bcn)</p>
 <p> 2 Años de Experiencia en Albaelectro</p>
 <p><strong>Toda una vida trabajando <em>contigo <3</em>(?¿)<p></strong>
+
+<h4> Habilidades especiales </h4>
++ Aprendo Rapido.
++ Probablemente el mejor programador de mi calle.
++ No le tengo miedo a la muerte, por que ya estoy muerto por dentro.
++ Se hablar y escribir ingles, Andaluz, Castellano, Venezolano, Argentino, Chileno entre otros idiomas.
++ Puntual, nunca llego tarde siempre llego cuando me lo propongo.
++ Mi Ultimate tiene poco CD y hace daño %.
+
 
   
 
