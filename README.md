@@ -1,6 +1,5 @@
 # Adrian_RuizDiaz
 <h2> Curriculum </h2>
-![juanlugaylachupa](https://gamerstodayweb.files.wordpress.com/2016/06/russo_di_dota_2.jpg?w=750)
 <h3 id="datos"> Datos Personales </h3>
 <p><strong>Nombre</strong>: Adrian Ruiz Diaz.</p>
 <p><strong>email de contacto</strong>: RogueRebel997@gmail.com.</p>
